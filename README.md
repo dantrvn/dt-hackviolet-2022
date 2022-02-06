@@ -3,7 +3,11 @@
 This repository is used to build a HackViolet Project.
 
 
-Partners include Mical T, Tihut S, Afomiya A, and Daniel T.
+Project Name: A Lady's Guide to Virginia Tech
 
 
-In order to launch our webpage, please open the index.html file.
+Creators: Mical T, Tihut S, Afomiya A, and Daniel T.
+
+
+In order to launch our webpage, please ensure all the 
+files are downloaded, and then open the index.html file.
